@@ -10,7 +10,7 @@
         <mxCell id="pMPUyEu7R3_AaXZGhj5S-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="pMPUyEu7R3_AaXZGhj5S-2">
           <mxGeometry width="850" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pMPUyEu7R3_AaXZGhj5S-21" value="XD" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pMPUyEu7R3_AaXZGhj5S-3">
+        <mxCell id="pMPUyEu7R3_AaXZGhj5S-21" value="NX" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pMPUyEu7R3_AaXZGhj5S-3">
           <mxGeometry width="20" height="40" as="geometry">
             <mxRectangle width="20" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -30,7 +30,7 @@
             <mxRectangle width="140" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMPUyEu7R3_AaXZGhj5S-17" value="4K物理地址" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pMPUyEu7R3_AaXZGhj5S-3">
+        <mxCell id="pMPUyEu7R3_AaXZGhj5S-17" value="物理地址" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="pMPUyEu7R3_AaXZGhj5S-3">
           <mxGeometry x="270" width="280" height="40" as="geometry">
             <mxRectangle width="280" height="40" as="alternateBounds" />
           </mxGeometry>
