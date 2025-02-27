@@ -1085,7 +1085,7 @@
           <mxGeometry x="1640" y="399" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9qvqZgdFE7eqmu_w8_o--53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;VA&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="-86" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trlSuUdZmVp7ZevmP9SD-1" value="NVSwitch&lt;br&gt;（MCRID）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=14;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="1240" y="1040" width="120" height="40" as="geometry" />
@@ -1172,7 +1172,7 @@
           <mxGeometry x="1170" y="1280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="trlSuUdZmVp7ZevmP9SD-25" value="&lt;ol style=&quot;&quot;&gt;&lt;li&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;MCRID Table: MultiCast Routing Identifier Table&lt;/span&gt;&lt;/li&gt;&lt;li&gt;所有NVSwitch上的MCRID都是同一份；&lt;/li&gt;&lt;li&gt;MCRID最多只能128个；&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1547.5" y="-50" width="305" height="45" as="geometry" />
+          <mxGeometry x="1970" y="-71" width="305" height="45" as="geometry" />
         </mxCell>
         <mxCell id="trlSuUdZmVp7ZevmP9SD-27" value="NVSwitch&lt;br&gt;（MCRID）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=14;strokeColor=#82B366;" parent="1" vertex="1">
           <mxGeometry x="1240" y="640" width="120" height="40" as="geometry" />
