@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="1qut9SB8FUUtURea2GPt">
-    <mxGraphModel dx="3108" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3309,20 +3309,10 @@
           <mxGeometry x="2775" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZKMqJ5-Bybz-JzkQTHkM-960" value="&lt;b&gt;LLM&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.robotics;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="2861" y="360" width="78" height="78" as="geometry" />
+          <mxGeometry x="2883" y="389" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZKMqJ5-Bybz-JzkQTHkM-963" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ZKMqJ5-Bybz-JzkQTHkM-960" target="ZKMqJ5-Bybz-JzkQTHkM-953">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKMqJ5-Bybz-JzkQTHkM-967" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.087;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" edge="1" parent="1" source="ZKMqJ5-Bybz-JzkQTHkM-960" target="ZKMqJ5-Bybz-JzkQTHkM-968">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2740" y="620" as="targetPoint" />
-            <mxPoint x="2880" y="399" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="2740" y="399" />
-              <mxPoint x="2740" y="631" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZKMqJ5-Bybz-JzkQTHkM-968" value="&lt;font style=&quot;font-size: 10px; color: rgb(184, 84, 80);&quot;&gt;&lt;font&gt;Partition 3&lt;/font&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;strokeColor=#b85450;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;shadow=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2775" y="605" width="80" height="40" as="geometry" />
@@ -3354,6 +3344,14 @@
         </mxCell>
         <mxCell id="ZKMqJ5-Bybz-JzkQTHkM-976" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ZKMqJ5-Bybz-JzkQTHkM-146" target="ZKMqJ5-Bybz-JzkQTHkM-326">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKMqJ5-Bybz-JzkQTHkM-977" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.063;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=1;dashed=1;" edge="1" parent="1" source="ZKMqJ5-Bybz-JzkQTHkM-960" target="ZKMqJ5-Bybz-JzkQTHkM-968">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="398" />
+              <mxPoint x="2740" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
