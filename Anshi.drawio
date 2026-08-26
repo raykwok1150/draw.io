@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="1qut9SB8FUUtURea2GPt">
-    <mxGraphModel dx="2443" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3497" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2656,10 +2656,22 @@
           <mxGeometry height="60" width="70" x="1470" y="2320" as="geometry" />
         </mxCell>
         <mxCell id="6WTLPMiObQON3ENX1aRq-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontColor=#CC0000;fontStyle=1" value="连续的network address" vertex="1">
-          <mxGeometry height="30" width="212" x="782" y="2265" as="geometry" />
+          <mxGeometry height="30" width="212" x="701" y="2281" as="geometry" />
         </mxCell>
         <mxCell id="6WTLPMiObQON3ENX1aRq-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="特殊用途" vertex="1">
           <mxGeometry height="60" width="110" x="1540" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="Th-6MseksyhB6Zviz0if-1" edge="1" parent="1" source="6WTLPMiObQON3ENX1aRq-3" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="nMgMNFbwzar17_5irs1X-145" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-60" y="2320" as="sourcePoint" />
+            <mxPoint x="-10" y="2270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Th-6MseksyhB6Zviz0if-2" edge="1" parent="1" source="6WTLPMiObQON3ENX1aRq-17" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="nMgMNFbwzar17_5irs1X-149" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="2300" as="sourcePoint" />
+            <mxPoint x="230" y="2260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
